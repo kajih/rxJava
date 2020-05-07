@@ -1,0 +1,14 @@
+root = true
+
+[*.{java,kt}]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
+insert_final_newline = true
+
+[*.j2]
+charset = utf-8
+end_of_line = lf
+indent_size = 2
+indent_style = space
