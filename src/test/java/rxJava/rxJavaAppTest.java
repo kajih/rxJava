@@ -11,6 +11,5 @@ class rxJavaAppTest {
   @Test
   void appHasAGreeting() {
     RxJavaApp classUnderTest = new RxJavaApp();
-    assertNotNull(classUnderTest.getGreeting(), "app should have a greeting");
   }
 }

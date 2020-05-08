@@ -31,6 +31,7 @@ dependencies {
     testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:5.6.0")
 
     implementation("io.reactivex.rxjava3:rxjava:3.0.3")
+    // implementation("org.reactivestreams:reactive-streams:1.0.3")
 }
 
 application {
